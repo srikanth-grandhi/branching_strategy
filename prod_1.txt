@@ -4,4 +4,7 @@ prod line 3
 preprod line 1
 preprod line 2
 preprod line 3
+stage line 1
+stage line 2
+stage line 3
 
